@@ -9,3 +9,7 @@ Content-Type: application/json
 ###
 
 GET http://localhost:3008/api/greetings
+
+###
+
+GET https://sqlite-greetings-using-migrations-and.onrender.com/api/greetings
